@@ -9,8 +9,8 @@
   "name":"gerenciador",
   "overriddenProperties":[],
   "parent":{
-    "name":"22_10_jogo",
-    "path":"22_10_jogo.yyp",
+    "name":"jogoo_2_11_",
+    "path":"jogoo_2_11_.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
