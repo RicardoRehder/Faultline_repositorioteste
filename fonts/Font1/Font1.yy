@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"Font1",
   "parent":{
-    "name":"22_10_jogo",
-    "path":"22_10_jogo.yyp",
+    "name":"jogoo_2_11_",
+    "path":"jogoo_2_11_.yyp",
   },
   "pointRounding":0,
   "ranges":[
